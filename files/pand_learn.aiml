@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>TELL ME ABOUT INDIA</pattern>
+	<template>HERE IS THE INFORMATION ABOUT INDIA</template>
+</category>
+
+</aiml>
